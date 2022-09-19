@@ -1,3 +1,4 @@
+# Running Tracker
 The repository consists of files for creating a running tracker web-page.
 The tracker is created using HTML, CSS and JavaScript.
 The index.html file consists of the HTML Code of the running tracker,
